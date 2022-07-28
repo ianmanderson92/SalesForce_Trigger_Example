@@ -1,6 +1,7 @@
 /******************************************************//**
 
 @copyright  (c)2022, Real Property Management Commonwealth
+!!Code Snippet Shown with Permission!!
 **********************************************************/
 
 public inherited sharing class ContractHandler extends TriggerContext.Handler
